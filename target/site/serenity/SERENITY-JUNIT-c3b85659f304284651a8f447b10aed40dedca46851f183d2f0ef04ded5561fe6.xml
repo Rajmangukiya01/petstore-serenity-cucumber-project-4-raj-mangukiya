@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.swagger.petstore.testsuite.DataDrivenPetTest" skipped="0" tests="100" time="56.89" timestamp="2023-01-10T23:08:14.039Z[Europe/London]"><testcase classname="io.swagger.petstore.testsuite.DataDrivenPetTest" name="Data driven test for multiple pet to the pet"/></testsuite>

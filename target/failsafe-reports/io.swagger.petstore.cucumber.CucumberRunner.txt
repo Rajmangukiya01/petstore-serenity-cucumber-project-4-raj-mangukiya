@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.swagger.petstore.cucumber.CucumberRunner
+-------------------------------------------------------------------------------
+Tests run: 64, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.966 sec - in io.swagger.petstore.cucumber.CucumberRunner
